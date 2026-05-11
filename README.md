@@ -1,6 +1,6 @@
 # Fireside Summariser
 
-Turns a 50-minute founder fireside into two shareable audio segments — one for an AI-strategy audience, one for an operator audience.
+Turns a 50-minute founder fireside into two shareable audio segments: one for an AI audience, one for an operator audience.
 
 Built for R[3]sidency, an AI, crypto and robotics accelerator that runs an intimate fireside series with founders. Each one is recorded, but almost none of them get distributed beyond the room they were held in.
 
