@@ -11,12 +11,18 @@ Two segments produced from a fireside between Richard Muirhead (Fabric) and Arch
 **Reel A — Three contrarian bets** (3:00)  
 Fyxer's bets on custom models, customer reach, and the AI talent ecosystem.
 
-[▶ Listen to Reel A](https://github.com/latapersson/fireside-summariser/releases/download/v0.1/output_reel_a.mp3)
+https://github.com/user-attachments/assets/9bc00d02-4e13-44f8-b46f-d473c5f3fa51
 
 **Reel B — Building for everyone but founders** (3:30)  
 How Fyxer found product-market fit by deliberately ignoring tech-native customers.
 
-[▶ Listen to Reel B](https://github.com/latapersson/fireside-summariser/releases/download/v0.1/reel_b.mp3)
+https://github.com/user-attachments/assets/6258c06e-cbf7-403d-956a-8d79b975f150
+
+
+
+
+
+
 
 ## How it works
 
